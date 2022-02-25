@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Timothy Touchstone his reply to Mr. Christian's letter written in vindication of the great worth and innocence of the Earl of Danby.</title>
+            <author>Touchstone, Timothy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62663</idno>
+            <idno type="STC">Wing T1291</idno>
+            <idno type="STC">ESTC R883</idno>
+            <idno type="EEBO-CITATION">12075647</idno>
+            <idno type="OCLC">ocm 12075647</idno>
+            <idno type="VID">53566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 582:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Timothy Touchstone his reply to Mr. Christian's letter written in vindication of the great worth and innocence of the Earl of Danby.</title>
+                  <author>Touchstone, Timothy.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Crawford, J.L.L. Cat. of Engl. broadsides gives 1710 as probable date of publication.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian, Edward.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:53566:1"/>
+            <pb n="1" facs="tcp:53566:1"/>
+            <head>Timothy Touchstone HIS REPLY TO Mr. Chriſtian's Letter, Written in Vindication of the great Worth and Innocence of the EARL of DANBY.</head>
+            <p>UPon my receipt of Yours, I made it my particular care to chide that Naughty-pack <hi>J. B.</hi> for his ſevere Reflections relating to the Murder of Sir <hi>Edmondbury Godfrey;</hi> and ſhew'd him the infallible teſtimony I had (meaning your Letter,) to contradict both all himſelf, and the whole Kingdom has ſaid concerning the ill Conduct, and worſe Deſigns of the Earl of <hi>Danby;</hi> I urge too, (and effectually as I think) that a Man whoſe Morals are ſo well known as yours, ought to be believ'd con<g ref="char:EOLhyphen"/>cerning the pious and good life of your own Maſter; againſt the unanimous Teſtimony of Court, Parliament, and Kingdom; <hi>Nay, and his own Letters too.</hi>
+            </p>
+            <p>
+               <hi>For look you,</hi> [ſaid I Mr. <hi>J. B.</hi>] <hi>can any one know more of</hi> Thomas <hi>E. of</hi> Danby <hi>then Mr.</hi> Chriſtian, <hi>who was prefer'd by him to ſerve the D. of</hi> Buckingham; <hi>and had the opportunity thereby</hi> (as his Grace ſays) <hi>to cheat him of ſome Thouſands: Did not he after this take him again into his own ſecret Service, and by his advice refuſe to reſign a Truſt his Grace had repoſed in him concerning his Eſtate, except among other things the D. would be content to pay</hi> Chri<g ref="char:EOLhyphen"/>ſtian <hi>well for couſning him ſufficiently; Did he not by his advice too keep poſſeſſion of the Dukes Houſe againſt his will, and pay him no Rent to boot, And tho he were his patron and raiſer, did he not particularly at Mr.</hi> Chriſtians <hi>inſtigation, Plot and contrive how to take off the Dukes Head. If this be ſo ſaid I,</hi> And deny it if you can Mr. <hi>J. B. How then do you think any man ſhould know more of the E. of</hi> Danby <hi>then Mr.</hi> Chriſtian?—Away, away, <hi>'tis a ſhame indeed</hi> (ſaid I) <hi>that Men of ſuch notorious lives for Gratitude and Honour, ſhould be thus ſuſ<g ref="char:EOLhyphen"/>ſpected of the contrary; Nay indeed Mr.</hi> Chriſtian <hi>in duty to our Friendſhip, I tickled him away till I made him very ſerious, whereupon I had hopes he would (as you deſir'd) appear and be hang'd, Yet when I requeſted it of him, he excus'd himſelf as to that point, for theſe Reaſons.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> He ſaid, that though he had as much reſpect for Mr. <hi>Chriſtian</hi> as any man brea<g ref="char:EOLhyphen"/>thing had, that knew him as well as himſelf, yet he had ſuch preſent occaſion for his life, he could not poſſibly (but againſt his will) ſpare it at that time, by reaſon (as he ſays among other things,) there are more Lyers in the world than E. of <hi>Di</hi> and your ſelf, if a certain Lodging of yours between <hi>Hambden</hi> and <hi>Danby</hi> Houſes will not plead Poſſeſſion againſt the <hi>Stamford</hi> Evidence when time ſhall ſerve, to ſee whether he would be willing to ſtay on this ſide Purgatory, the beſt place he can expect from the Religion you give him, and the Crimes you accuſe him of in your Letter.</p>
+            <pb n="2" facs="tcp:53566:2"/>
+            <p> Secondly, he ſays, that he ſhould be particularly unwilling to be hang'd at this time, becauſe nothing, a man ſays on the Gallows will be believ'd, and he would be loath his laſt dying words ſhould not find as good credite, as <hi>B—</hi> or <hi>P—</hi> ſo ſacred a Teſtimony; for which, and for the Earl of <hi>Danby</hi>'s ſake, they have been ſo well payed. Beſides, I proteſt I could not well know what to ſay to him, when he remarked to me the apparent contradiction you your ſelf give to the Teſtimony brought againſt thoſe that have ſuf<g ref="char:EOLhyphen"/>fered for the Murder, when you allow him to have paſt through my Lady <hi>Ann Cooke</hi> Lodging at a Eleven a Clock that day: But he confeſſes that he himſelf did not ſee him then, nor after that day at the Earl of <hi>Danby</hi>'s; but he is confident, before the never to be expected time promiſed in your Letter, of clearing his Lordſhips Innocence, there will be them will ſwear the particular paſſages, as well there, as at <hi>Fox-hall,</hi> related in the Reflections, have ſo heated you.</p>
+            <p>I could not tell what to Anſwer, to make him incline more to hanging; which for your ſake I could wiſh were done, for he's a ſhrewd Rogue I find, and knows much more of the E. of <hi>Danby</hi>'s Proceedings then will be convenient for his Lordſhip, if ever he ſtand his Tryal without clinging to his Pardon. Which as much a Papiſt as <hi>J. B.</hi> is, he allows to be more effectual for the ſafety of the Earl of <hi>Danby</hi> in this World, then thoſe Chymerical ones the <hi>Pope</hi> is pretended to grant to ſuch of his Religion, as can but Lye Iuſtily at their laſt Ends in the other World; Though indeed friends I muſt tell you, there be many as wiſe, and better Proteſtants then you or I, (nay indeed the Earl of <hi>Danby,</hi>) that plainly ſee theſe are apparent and new invented Calumnies to blear the Eyes of the unthinking rabble from diſcerning the difference between the Teſtimonies of ſeeming vertuous dying men, and theſe mercinary witneſſes, held up till ſome Deſigns of <hi>Danby</hi>'s and of others that have out witted him, are brought out.</p>
+            <p>But tell no body that I ſaid any thing of the matter, leaſt Judges and Jury ſhould be more angry and revengeful for evident Truth, then men in this Atheiſtical Age, will be<g ref="char:EOLhyphen"/>lieve God can be for the blood of ſo many Innocents: For indeed Mr. <hi>Chriſtian</hi> 'tis ap<g ref="char:EOLhyphen"/>parent how often your Emiſſaries of Hell have varied and polliſht their firſt Depoſitions ſince they were mannaged by cunninger Conjurers then your Maſter, who firſt raiſed the Divels.</p>
+            <p>The truth on't is, I learn much of this from <hi>J. B.</hi> but he ſwears and vows he had no hand as you conceive in the Catalogue of the Lord <hi>Treaſurers,</hi> nor does not uſe he ſays to go ſo far about for nothing: But if he had talked of his preferment, could have added that a bargain between him and the Lord <hi>Clifford,</hi> as well as the Duke of <hi>Buckingham</hi>'s kind<g ref="char:EOLhyphen"/>neſs created him indeed but half Lord Treaſurer in Sallary, whilſt his Predeceſſor lived.</p>
+            <p>Beſides he ſays in much a ſhorter Paper, he could have ſhewed ſuch particular paſſages of his Miniſtry, whereby he firſt beggard, and then ſold his Maſters Honor and the King<g ref="char:EOLhyphen"/>doms; ſuch ſtrange wayes of taking as well as giving Bribes, and ſuch foul paſſages in Foreign, as well as Domeſtick bargains, that <hi>nothing but your infallible word to the contrary,</hi> could have hindred him from being thought (not to ſay worſe) no better a Chriſtian then your ſelf, and how good that is, he refers to thoſe multitudes of people, (that long ago) indeed as long ſince, as when the four Lords were in the <hi>Tower</hi> for deſiring an end of his corrupted Commoners. We are wont to hear, you hold it out as an undoubted maxime of your own, that it would never be well till ſome heads flew, rejoycing ſome gave ſuch fair play for theirs, who they were you meant was eaſily ſeen, though they have ſtrangely won the after-game, and brought the bloody minded man himſelf to the Pits brink. Theſe are <hi>J. B</hi>'s. words, which how able he is to make good, I am confident you will ſuddenly ſee; in the mean time hearing you would willingly know him, I aſſure you he is called <hi>John</hi> the <hi>Brewer,</hi> and keeps the Sign of the <hi>Naked Truth,</hi> a very ſcandal<g ref="char:EOLhyphen"/>ous Picture at this time, and in as much danger as any Popiſh one; but there you may find him, if <hi>you dare come near the place,</hi> where every day you will be ſure to find,</p>
+            <closer>
+               <signed>Your Friend at a dead liſt, <hi>Timothy Touchſtone,</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:53566:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
